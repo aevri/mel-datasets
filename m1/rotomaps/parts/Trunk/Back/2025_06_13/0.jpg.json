@@ -1,0 +1,62 @@
+[
+    {
+        "is_uuid_canonical": true,
+        "uuid": "f073202247d34ba49f8de9080eb18189",
+        "x": 2925,
+        "y": 4705
+    },
+    {
+        "is_uuid_canonical": true,
+        "uuid": "b38e00c7486d402e9f198820e5476943",
+        "x": 2403,
+        "y": 4768
+    },
+    {
+        "is_uuid_canonical": true,
+        "uuid": "d631043a83744160a33e23906ebbc50c",
+        "x": 2277,
+        "y": 4055
+    },
+    {
+        "is_uuid_canonical": true,
+        "uuid": "6f5de1b147124092b6ff51e009172d8a",
+        "x": 2001,
+        "y": 4208
+    },
+    {
+        "is_uuid_canonical": true,
+        "uuid": "0eb8f926114f43cd9c4ef88794fa5c8c",
+        "x": 1919,
+        "y": 4049
+    },
+    {
+        "is_uuid_canonical": true,
+        "uuid": "9f28adb0b907476abd501d2fe05476f0",
+        "x": 1839,
+        "y": 3919
+    },
+    {
+        "is_uuid_canonical": true,
+        "uuid": "98be9b503faa429cb2910c46054f974c",
+        "x": 1784,
+        "y": 3921
+    },
+    {
+        "is_uuid_canonical": true,
+        "uuid": "63a243d3a5fe450cbef70613816fae75",
+        "x": 2871,
+        "y": 4500
+    },
+    {
+        "is_uuid_canonical": true,
+        "uuid": "80cc70b345794d48a78265cc59e81652",
+        "x": 3031,
+        "y": 4451
+    },
+    {
+        "is_uuid_canonical": true,
+        "uuid": "7da2ffe8768b4803a17b44cb15758873",
+        "x": 2942,
+        "y": 4242
+    }
+]

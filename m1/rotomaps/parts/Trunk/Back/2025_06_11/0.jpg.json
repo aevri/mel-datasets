@@ -1,0 +1,32 @@
+[
+    {
+        "is_uuid_canonical": true,
+        "uuid": "3b38aff3f7284727b38853989a6e979d",
+        "x": 1795,
+        "y": 5997
+    },
+    {
+        "is_uuid_canonical": true,
+        "uuid": "6d72684b3f9c49f4bdafc6dfcdb16bec",
+        "x": 2842,
+        "y": 5783
+    },
+    {
+        "is_uuid_canonical": true,
+        "uuid": "a31cd1fbcce54a5997b936cac12d283a",
+        "x": 2975,
+        "y": 5986
+    },
+    {
+        "is_uuid_canonical": true,
+        "uuid": "f073202247d34ba49f8de9080eb18189",
+        "x": 2495,
+        "y": 3800
+    },
+    {
+        "is_uuid_canonical": true,
+        "uuid": "bafe3d552cc84e1bb2c5ded31dd0a885",
+        "x": 2008,
+        "y": 3968
+    }
+]
